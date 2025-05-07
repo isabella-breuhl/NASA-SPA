@@ -13,3 +13,6 @@ This application supports the following functionality and style below...
 - 2 roles: pre-registered users and guest users
 - 5000+ users loaded into mongo database
 - Allows secure and long-running sessions
+
+
+<img width="983" alt="Screenshot 2025-05-07 at 10 33 49 AM" src="https://github.com/user-attachments/assets/398c7efe-0287-4874-889a-a7cc8dc3402e" />
